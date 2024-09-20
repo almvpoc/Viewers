@@ -42,7 +42,7 @@ const config = {
       configuration: {
         name: 'healthlake',
         healthlake: {
-          datastoreID: '617156b243b84117adb9d33dd32588f7',
+          datastoreID: 'dfa9566adaaf4f69a55aacf90a07a09a',
           endpoint: 'http://localhost:8089', // Add here the address to you proxy
         },
         singlepart: 'bulkdata,video,pdf,image/jphc',
