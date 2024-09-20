@@ -1,1 +1,3 @@
 .vercel
+# Not sure why, but .yarnrc interferes with `yarn install`
+.yarnrc
