@@ -168,6 +168,12 @@ const config = {
       keys: ['9'],
     },
   ],
+
+  whiteLabeling: {
+    createLogoComponentFn: function(React) {
+      return React.createElement('div');
+    },
+  },
 };
 
 window.config = config;
